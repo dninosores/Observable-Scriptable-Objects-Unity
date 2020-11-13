@@ -1,0 +1,12 @@
+{
+  "name": "com.dninosores.observable-scriptable-objects-unity",
+  "version": "1.0.0",
+  "displayName": "Observable Scriptable Objects",
+  "description": "Adds observable scriptable objects for all primary data types.",
+  "author": {
+    "name": "Olly Glenn",
+    "url": "https://github.com/dninosores/Observable-Scriptable-Objects-Unity"
+  },
+  "type": "library",
+  "hideInEditor": false
+}
